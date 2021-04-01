@@ -1,16 +1,14 @@
-### Hi there 👋
+# 정인교
+#
+##### 💻맡은 일은 최선을 다하는 개발자 정인교입니다!
+#
+#
+- ✉Email: inkyochung@gmail.com
+- 📝Notion Portfolio: https://www.notion.so/Protim-e60cc6c4ab64486ca5cbb8b44234f654
+- 📚Blog: https://developblog.tistory.com/
+#
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingyocode&show_icons=true&theme=radical)
 
-<!--
-**ingyocode/ingyocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingyocode&hide=Vue)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
