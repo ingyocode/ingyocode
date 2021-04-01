@@ -8,7 +8,7 @@
 - 📚Blog: https://developblog.tistory.com/
 #
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingyocode&show_icons=true&theme=radical)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ingyocode)](https://github.com/ingyocode/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingyocode&hide=Vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingyocode&hide=Vue)](https://github.com/ingyocode/github-readme-stats)
 
