@@ -10,5 +10,5 @@
 #
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ingyocode)](https://github.com/ingyocode/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingyocode&hide=Vue)](https://github.com/ingyocode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingyocode)](https://github.com/ingyocode/github-readme-stats)
 
