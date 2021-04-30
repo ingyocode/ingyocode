@@ -8,7 +8,5 @@
 - 📚Blog: https://developblog.tistory.com/
 #
 #
-# [![Anurag's github stats]#(https://github-readme-stats.vercel.app/api?username=ingyocode)](https://github.com/ingyocode/github-readme-stats)
-
 
 
