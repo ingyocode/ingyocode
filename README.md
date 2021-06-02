@@ -14,6 +14,7 @@
 
 #### Tech Stack
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typescript-#3178C6?style=flat-square&logo=Typscript&logoColor=white"/>
 #### 
 ![Ingyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingyocode&show_icons=true)
 #### 
