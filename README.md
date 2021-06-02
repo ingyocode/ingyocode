@@ -13,7 +13,7 @@
 - 📚Blog: https://developblog.tistory.com/ <a href="https://velog.io/@ingyocode"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 #### Tech Stack
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/ts%2B-node-339933?style=flat-square&logo=ts-node&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/tsNode-339933?style=flat-square&logo=ts-node&logoColor=white"/> <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
 #### 
 ![Ingyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingyocode&show_icons=true)
 #### 
