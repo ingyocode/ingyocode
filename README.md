@@ -11,6 +11,7 @@
 - ✉Email: inkyochung@gmail.com
 - 📝Notion Portfolio: https://www.notion.so/Protim-e60cc6c4ab64486ca5cbb8b44234f654
 - 📚Blog: https://developblog.tistory.com/
+- <a href="https://velog.io/@ingyocode"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 #### 
 ![Ingyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingyocode&show_icons=true)
 #### 
